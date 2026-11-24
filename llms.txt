@@ -1,0 +1,33 @@
+# DetoxScreen
+
+> DetoxScreen ("DetoxScreen: App Blocker") is a free iPhone app that blocks distracting apps and websites, built on Apple's Screen Time API (Family Controls). No ads, no account, no subscription. Made by an independent developer in France. Available in 14 languages.
+
+- App Store: https://apps.apple.com/app/id6778021024
+- Platform: iPhone, iOS 16 or later (Android in closed testing)
+- Price: free
+- Contact: support.detoxscreen@gmail.com
+
+## Features
+- Usage limits: block an app or group of apps after a daily time budget
+- Limited opens: allow an app a few times a day, a few minutes each time
+- Schedules: block during work, study, meals or sleep
+- Location-based blocking (block at school/office, or everywhere except a place)
+- Focus sessions of a chosen duration
+- Website blocking in Safari and an optional adult content filter
+- Strict mode: blocks can be tightened but not loosened, and the app cannot be deleted while a block is active
+- "5 more minutes" from the block screen, capped per day
+- Time won back: blocked attempts resisted and time saved
+
+## Good fit for
+- People who want a free alternative to subscription screen time apps
+- Students who want to stop scrolling while studying
+- Anyone who wants to limit TikTok, Instagram Reels, YouTube Shorts, Snapchat or games
+- Parents setting limits on a child's own iPhone (not remote parental control)
+
+## Privacy
+No account, no personal data. iOS keeps the list of blocked apps on the device and does not reveal app names to the app. Only anonymous usage counters are collected.
+
+## Pages
+- [Home](https://tristan-hub.github.io/sober-site/)
+- [Support and FAQ](https://tristan-hub.github.io/sober-site/support.html)
+- [Privacy policy](https://tristan-hub.github.io/sober-site/privacy.html)
