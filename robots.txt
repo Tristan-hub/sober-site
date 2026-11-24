@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://tristan-hub.github.io/sober-site/sitemap.xml
